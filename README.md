@@ -54,7 +54,7 @@ nano .env
 PRIVATE_KEY = your Wallet Private key
 RECIPIENT_ADDRESS = your recipient address
 ```
->  Replace `your Wallet Private key` & `your recipient address`
+>  Replace `your Wallet Private key` & `your recipient address` or 'your own testnet address'
 >
 > To save: Ctrl+X+Y Enter
 > 
